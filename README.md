@@ -4,6 +4,8 @@ A beautiful, fluid, hardware-accelerated **Morphing Typography Clock** designed 
 
 This project utilizes the high-performance **LovyanGFX** graphics library to draw smooth, anti-aliased digits that transition using quadratic cubic Bezier curve interpolation. The rendering runs at a highly responsive **19 FPS** by executing a double-buffered layout inside the ESP32-S3's fast internal SRAM.
 
+![Clock Morphing Transition](clock_transition.gif)
+
 ---
 
 ## Hardware Requirements
