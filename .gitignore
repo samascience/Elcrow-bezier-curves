@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.venv/
+bin/
+include/
+lib/
+share/
+pyvenv.cfg
+
+# Local IDE configs
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Arduino compilation cache
+build/
+*.elf
+*.bin
+*.hex
